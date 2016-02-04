@@ -1,0 +1,155 @@
+.bloque1{
+	display: block;
+	text-align: center;
+
+}
+
+.bloque1 h1{
+	color:#29385D;
+	font-size:25px;
+	padding-top:20px;
+	padding-bottom: 30px;
+	
+}
+
+.bloque1 nav{
+	
+	color:#B4B4B4;
+	font-size: 16px;
+}
+
+.bloque1 a{
+	text-decoration: none;
+	display: inline-block;
+	margin-left:70px;
+	padding-bottom: 30px;
+	color:#B4B4B4;
+}
+
+
+
+.imagen {
+	background-image: url('../img/dance_7.jpg');
+    background-position: left;
+    height: 450px;
+    background-size: 140%;
+
+}
+.texto{
+	width: 40%;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+    background: rgba(0,0,0,0.76);
+}
+
+.texto p{
+    font-size: 14px;
+	padding: 3% 0
+}
+
+.texto-2 {
+    background-image: url(../img/cubes.png);
+    background-repeat: repeat;
+    padding: 5%;
+}
+
+.texto-2 .col-4{
+    padding: 5%;
+}
+
+.texto-2 hr{
+    margin:5% 0;
+}
+
+.instructores h2 {
+    padding: 5% 0;
+}
+.foto-instructores{
+    height: 170px;
+    overflow: hidden;
+}
+.nombre-instructores {
+	position: relative;
+    padding: 5% 0 30% 0;
+    background: white; 
+}
+
+.nombre-instructores h5{
+    padding: 5% 0;
+    font-weight: bold;
+}
+
+.frase {
+	font-size: 40px;
+    background-image: url(../img/cubes.png);
+    background-repeat: repeat;
+    padding: 5% 10%;
+}
+
+
+#contac {
+	padding: 5% 10%;
+    background-image: url(../img/shoes_1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    position: relative;
+}
+
+#contac input {
+    border: 2px #E3E3E3 solid;
+    padding-left: 40px;
+    margin: 1% 0;
+    width: 100%;
+    height: 40px;
+}
+textarea {
+	width: 100%;
+	height: 150px;
+	line-height: 150%;
+	margin: 1% 0;
+    border-radius: 3px;
+    border: 2px #E3E3E3 solid;
+    padding: 2% 40px;
+    background: transparent;
+}
+#contac button{
+    width: 100%;
+    height: 40px;
+    margin: 1% 0;
+    border:none;
+    background: #1A2952;
+    font-size:13px;
+    color: white;
+}
+
+#contac h3{
+	font-size: 25px;
+    font-weight: bold;
+    color: #192951;
+}
+form .nombre{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 20px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+}
+form .email{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 20px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+}
+form .mensaje{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 20px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+}
+
+footer{
+  height: 70px;
+  background-color: #192951;
+  padding: 2%;
+}

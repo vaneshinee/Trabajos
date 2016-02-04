@@ -1,0 +1,312 @@
+
+*{
+  font-family: Arial;
+}
+ 
+header{
+  background: linear-gradient(to right, #fff, #F5F5F5);
+
+}
+.image{
+  width:350px;
+  height: 60px;
+  margin:0;
+}
+
+.title{
+  margin-top: 25px;
+  color:#D5D5D5;
+  font-size: 12px;
+}
+
+.search{
+	position: relative;
+	margin-top: 20px;
+	left: 25px;
+}
+
+.search input{
+  height: 30px;
+  padding: 8px;
+  width: 170px;
+  border: 1px solid #D3D3D3;
+  background: transparent;
+}
+
+.boton{
+	background: url("../img/3.png") no-repeat;
+	background-size: 100% 100%;
+	width: 15px;
+	height: 20px;
+	position:absolute;
+	top:5px;
+	right:220px;
+}
+
+.image2{
+	width: 25px;
+	height: 30px;
+	position:relative;
+}
+
+.banner{
+  background: #383838 url("../img/banner.jpg") no-repeat;
+  background-size: 70% 100%;
+  height: 400px;
+}
+
+.image3{
+  position: relative;
+  width: 50px;
+  height: 50px;
+  top:185px;
+  left: 70px;
+
+}
+
+h1{
+	position: relative;
+	margin-left: 10px;
+  margin-top: 15px;
+  font-size: 30px;
+  color:#D3D3D3;
+}
+
+.banner hr{
+	position: relative;
+	margin-left: 10px;
+  border-color:#7D2D33;
+  width:93%;
+  margin-top: 15px;
+  border: 1px solid #6B6B6B;
+}
+
+.box{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.box .boton1{
+  background: transparent;
+	border-radius: 5px;
+	border:solid 2px #399656;
+	color: #399656;
+	padding: 5px;
+	padding-left: 7px;
+	width: 58px;
+	font-size: 12px;
+  
+}
+
+.caja p{
+	display: inline-block;
+	font-size: 12px;
+	color:#CECEBC;
+  padding-top: 12px;
+}
+
+td{
+	color:#CECEBC;
+	font-size: 13px;
+  margin-top: 10px;
+  padding-top: 5px;
+}
+ td:first-child{
+  color: #C9C9C9;
+  font-size: 14px;
+ }
+
+td:nth-child(2){
+  padding-left: 50px;
+}
+.boton2{
+  
+  background-color: #DFB636;
+  border-radius: 5px;
+  width: 175px;
+  height: 40px;
+  padding: 10px;
+  display:block;
+  margin-top: 10px;
+  font-size: 15px;
+  color:#fff;
+}
+
+.boton3{ 
+
+	background-color: #BB7B29;
+	border-radius: 5px;
+	width: 175px;
+  height: 40px;
+  padding: 10px;
+  display:block;
+  margin-top: 15px;
+  font-size: 15px;
+  color:#fff;
+}
+
+.fondo{
+	background: #DFB636;
+  padding: 10px 0 ;
+
+
+}
+
+.col-2 img{
+  padding: 15px 5px 15px 5px;
+
+	width: 200px;
+	height: 250px;
+}
+
+.video{
+  width: 100%;
+  height: 300px;
+}
+
+
+.texto1{
+
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.texto1 p:first-child{
+  font-size:20px;
+  color: #D8D8D8;
+}
+
+.texto1 p:nth-child(2){
+  font-size:30px;
+  color:black;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.texto1 p:nth-child(3){
+  font-size:20px;
+  color: #D5D2D1;
+}
+
+.texto1 p:last-child{
+  font-size:13px;
+  color:#CFA26D;
+
+}
+
+.boton4{ 
+  background-color: #BB7B29;
+  border-radius: 5px;
+  width: 144px;
+  height: 70px;
+  padding: 20px;
+  padding-top: 29px;
+  display:block;
+  margin-top: 15px;
+  margin-bottom: 18px;
+  font-size: 13px;
+  color:#fff;
+}
+
+
+.texto2{
+  margin-top: 50px;
+  margin-bottom: 40px;
+
+}
+
+.texto2 p:first-child{
+  font-size:20px;
+  color: #D8D8D8;
+  margin-bottom: 13px;
+}
+
+.texto2 p:nth-child(2){
+  font-size:12px;
+  color:black;
+}
+
+.texto2 p:nth-child(3){
+  font-size:12px;
+  color: #D5D2D1;
+}
+
+.texto2 p:nth-child(4){
+  font-size:12px;
+  color: #D5D2D1;
+}
+
+.texto2 hr{
+  border: 1px solid #F4F4F4;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.texto2 p:nth-child(6){
+  font-size:12px;
+  color:black;
+}
+
+.texto2 p:nth-child(7){
+  font-size:12px;
+  color: #D5D2D1;
+}
+
+.texto2 p:nth-child(8){
+  font-size:12px;
+  color: #D5D2D1;
+}
+
+.texto2 p:last-child{
+  color: #E3C15F;
+  font-size: 12px;
+
+}
+
+
+.col-3 img{
+  width: 280px;
+  height: 290px;
+}
+
+
+footer{
+  position: relative;
+  background-color: #F3F3F3;
+  height:250px;
+  margin-top: 25px;
+}
+
+ h3{
+  color:#C9C9C9;
+  padding-top: 30px;
+  font-size: 15px;
+ }
+
+ p{
+  color:#C9C9C9;
+ }
+
+ .parrafo p:nth-child(2){
+ font-size: 13px;
+
+ }
+
+ .parrafo p:nth-child(3){
+  font-size: 13px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+ }
+
+.parrafo p:nth-child(4){
+  font-size: 12px;
+}
+
+.parrafo p:nth-child(5){
+  font-size: 12px;  
+}
+
+.parrafo p:nth-child(6){
+  font-size: 12px;
+  margin-bottom: 30px;
+}
